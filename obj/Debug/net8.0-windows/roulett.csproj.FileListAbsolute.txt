@@ -1,0 +1,16 @@
+F:\_pro\_new\roulett\bin\Debug\net8.0-windows\roulett.exe
+F:\_pro\_new\roulett\bin\Debug\net8.0-windows\roulett.deps.json
+F:\_pro\_new\roulett\bin\Debug\net8.0-windows\roulett.runtimeconfig.json
+F:\_pro\_new\roulett\bin\Debug\net8.0-windows\roulett.dll
+F:\_pro\_new\roulett\bin\Debug\net8.0-windows\roulett.pdb
+F:\_pro\_new\roulett\obj\Debug\net8.0-windows\roulett.Form1.resources
+F:\_pro\_new\roulett\obj\Debug\net8.0-windows\roulett.csproj.GenerateResource.cache
+F:\_pro\_new\roulett\obj\Debug\net8.0-windows\roulett.GeneratedMSBuildEditorConfig.editorconfig
+F:\_pro\_new\roulett\obj\Debug\net8.0-windows\roulett.AssemblyInfoInputs.cache
+F:\_pro\_new\roulett\obj\Debug\net8.0-windows\roulett.AssemblyInfo.cs
+F:\_pro\_new\roulett\obj\Debug\net8.0-windows\roulett.csproj.CoreCompileInputs.cache
+F:\_pro\_new\roulett\obj\Debug\net8.0-windows\roulett.dll
+F:\_pro\_new\roulett\obj\Debug\net8.0-windows\refint\roulett.dll
+F:\_pro\_new\roulett\obj\Debug\net8.0-windows\roulett.pdb
+F:\_pro\_new\roulett\obj\Debug\net8.0-windows\roulett.genruntimeconfig.cache
+F:\_pro\_new\roulett\obj\Debug\net8.0-windows\ref\roulett.dll
