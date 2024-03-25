@@ -14,3 +14,4 @@ F:\_pro\_new\roulett\obj\Debug\net8.0-windows\refint\roulett.dll
 F:\_pro\_new\roulett\obj\Debug\net8.0-windows\roulett.pdb
 F:\_pro\_new\roulett\obj\Debug\net8.0-windows\roulett.genruntimeconfig.cache
 F:\_pro\_new\roulett\obj\Debug\net8.0-windows\ref\roulett.dll
+F:\_pro\_new\roulett\obj\Debug\net8.0-windows\roulett.sourcelink.json
